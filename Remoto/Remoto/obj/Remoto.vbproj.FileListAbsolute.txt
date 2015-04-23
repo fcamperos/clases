@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\bin\Debug\Remoto.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\bin\Debug\Remoto.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\bin\Debug\Remoto.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Remoto\Remoto\obj\Debug\Remoto.vbproj.GenerateResource.Cache
